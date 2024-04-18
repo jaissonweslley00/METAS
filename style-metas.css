@@ -10,7 +10,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+    
 }
 
 .conteudo-principal {
@@ -35,7 +35,7 @@ body {
 }
 
 .botao {
-    font-family: "Crakra Petch", sans-serif;
+   
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
@@ -54,7 +54,7 @@ body {
     display: block;
 }
 
-/*Aula 03*/
+
 
 .botao.ativo {
     background-color: var(--botao-ativo);
